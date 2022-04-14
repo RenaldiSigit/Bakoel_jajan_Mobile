@@ -1,0 +1,4 @@
+#Thu Apr 14 13:58:55 WIB 2022
+base.0=/media/hdd2/Data Kuliah/Semester 4/mobile/bakoel_jajan/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
